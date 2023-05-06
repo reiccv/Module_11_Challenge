@@ -13,9 +13,9 @@ You’re a growth analyst at MercadoLibre. With over 200 million users, MercadoL
 
 # Imports 
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/imports.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/imports2.PNG)
 
 
 Instructions
@@ -37,11 +37,11 @@ Read the search data into a DataFrame, and then slice the data to just the month
 Calculate the total search traffic for the month, and then compare the value to the monthly median across all months. Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/1.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/2.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3.PNG)
 
 # Step 2: 
 Mine the search traffic data for seasonality
@@ -57,9 +57,9 @@ Using hvPlot, visualize this traffic as a heatmap, referencing the index.hour as
 
 Group the search data by the week of the year. Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/2-1.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/2-2.PNG)
 
 
 # Step 3: 
@@ -83,17 +83,17 @@ Create a new column in the DataFrame named “Lagged Search Trends” that offse
 Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-1.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-2.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-3.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-4.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-5.PNG)
 
-
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/3-6.PNG)
 
 # Step 4: 
 Create a time series model with Prophet
@@ -114,14 +114,14 @@ Which day of the week gets the most search traffic?
 What's the lowest point for search traffic in the calendar year?
 
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-1.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-2.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-3.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-4.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-5.PNG)
 
-![txt]()
+![txt](https://github.com/reiccv/Module_11_Challenge/blob/main/Resources/images/4-6.PNG)
